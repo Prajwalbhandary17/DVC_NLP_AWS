@@ -1,6 +1,13 @@
-# dvc-project-template
-DVC Nlp project
+# AIOps-project-DVC-NLP-uscase
+AIOps project DVC-NLP-uscase
 
+## Important References - 
+
+* [Bag of Words- Krish Naik](https://youtu.be/D2V1okCEsiE)
+
+* [TF-IDF- Krish Naik](https://youtu.be/D2V1okCEsiE)
+
+* [DVC studio home page](https://studio.iterative.ai/)
 ## STEPS -
 
 ### STEP 01- Create a repository by using template repository

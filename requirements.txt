@@ -7,6 +7,5 @@ numpy
 PyYAML
 scikit-learn
 Scipy
-
 ### local packages -
 -e . # << uncomment this to install from setup.py
